@@ -1,0 +1,40 @@
+nav{
+    background: linear-gradient(to bottom, #ebf1f6 0%,#abd3ee 0%,#89c3eb 0%,#d5ebfb 100%);
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+a{
+    color: red;
+}
+
+b{
+    font-style: italic;
+}
+
+h1{
+    color:white;
+    background-color: blue;
+    border-radius: 10px 10px 10px 10px;
+    font-family: 'Lumanosimo', cursive;
+
+
+}
+
+h2{
+    font-family: 'Times New Roman';
+}
+
+h3{
+    color: blue;
+}
+
+li{
+    font-style: oblique;
+}
+
+.redondeo{
+    border-radius: 50%;
+}
